@@ -17,6 +17,7 @@ header img {
 	max-height: 200px;
 	width: auto;
 	height: auto;
+	background-color: #333;
 }
 
 header h1 {
@@ -54,7 +55,7 @@ nav ul li {
 }
 
 #about {
-	background-color: #34495e;
+	background-color: #333;
 	padding: 50px 0;
 }
 
