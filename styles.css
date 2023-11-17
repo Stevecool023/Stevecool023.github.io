@@ -124,6 +124,13 @@ nav ul li {
 	display: table;
 }
 
+#section2 img {
+	max-width: 100%;
+	height: auto;
+	max-height: 150px;
+	margin-bottom: 10px;
+}
+
 
 #video {
 	text-align: center;
