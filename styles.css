@@ -65,8 +65,16 @@ nav ul li {
 }
 
 #about ul li {
-	text-align: center;
 	margin-bottom: 10px;
+}
+
+#about a {
+	color: #3498db;
+	text-decoration: none;
+}
+
+#about a:hover {
+	text-decoration: underline;
 }
 
 #video {
