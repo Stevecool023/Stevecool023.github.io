@@ -101,22 +101,22 @@ nav ul li {
 
 /* Left-aligned sections */
 .section-left {
-	text-align: left;
+	text-align: center;
 	float: left;
 	width: 50%;
 	padding: 20px;
 	box-sizing: border-box;
-	clear: left; /* Ensure that the left side is clear */
+	clear: right; /* Ensure that the right side is clear */
 }
 
 /* Right-aligned sections */
 .section-right {
-	text-align: right;
+	text-align: center;
 	float: right;
 	width: 50%;
 	padding: 20px;
 	box-sizing: border-box;
-	clear: right; /* Ensure that the right side is clear */
+	clear: left; /* Ensure that the left side is clear */
 }
 
 /* Clear float to prevent layout issues */
