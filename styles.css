@@ -23,10 +23,6 @@ header h1 {
 	margin: 20px 0;
 }
 
-header li {
-	color: #3498db;
-	text-decoration: none;
-}
 header a:hover {
 	text-decoration: underline;
 }
@@ -39,6 +35,8 @@ nav ul {
 nav ul li {
 	display: inline;
 	margin-right: 20px;
+	color: #3498db;
+	text-decoration: none;
 }
 
 .button {
@@ -55,6 +53,8 @@ nav ul li {
 	text-align: center;
 	padding: 50px 0;
 	background-color: #2c3e50;
+	margin: 0 auto;
+	max-width: 800px;
 }
 
 .feature {
@@ -65,6 +65,8 @@ nav ul li {
 	text-align: center;
 	background-color: #2c3e50;
 	padding: 50px 0;
+	margin: 0 auto;
+	max-width: 800px;
 }
 
 #about ul {
@@ -74,9 +76,6 @@ nav ul li {
 
 #about ul li {
 	margin-bottom: 10px;
-}
-
-#about li {
 	color: #3498db;
 	text-decoration: none;
 }
