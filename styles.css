@@ -7,6 +7,10 @@ body {
 }
 
 header {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
 	padding: 20px;
@@ -119,14 +123,6 @@ nav ul li {
 	clear: right; /* Ensure that the right side is clear */
 }
 
-/* center-aligned sections */
-.header-center {
-	float: center;
-	text-align: center;
-	width 70%;
-	padding: 20px;
-	box-sizing: border-box;
-	clear: center; /* Ensure that the central part is clear */
 
 /* Clear float to prevent layout issues */
 .clearfix::after {
