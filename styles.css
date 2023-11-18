@@ -103,7 +103,7 @@ nav ul li {
 .section-left {
 	float: left;
 	text-align: center;
-	width: 60%;
+	width: 70%;
 	padding: 20px;
 	box-sizing: border-box;
 	clear: left /* ensure that the right side is clear */
@@ -113,7 +113,7 @@ nav ul li {
 .section-right {
 	float: right;
 	text-align: center;
-	width: 60%;
+	width: 70%;
 	padding: 20px;
 	box-sizing: border-box;
 	clear: right; /* Ensure that the right side is clear */
