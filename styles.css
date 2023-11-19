@@ -9,13 +9,10 @@ body {
 header {
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
-	width: 75%; /* Set the width to 75% */
-	margin: 0; /* Set margin-top and margin-bottom to 0, and center horizontally */
+	/* width: 75%; /* Set the width to 75% */
 	padding-top: 25px; /* Add padding to create space at the top */
 	padding-bottom: 25px; /* Add padding to create space at the bottom */
 	box-sizing: border-box; /* Include padding and border in the total width */
-	/* padding-left: 40px; /* Add padding to create space at the left */
-	/* padding-right: 40px; /* Add padding to create space at the right */
 }
 
 header img {
