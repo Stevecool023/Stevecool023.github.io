@@ -22,11 +22,18 @@ header p:nth-child(2) {
 	text-indent: 3em; /* value to control the indentation */
 }
 
+header img {
+	max-width: 100%;
+	max-height: 200px;
+	width: auto;
+	height: auto;
+}
+
 /* Style for "agrimarket" */
 header h1,
 header .highlight-text {
 	font-weight: bold; /* Bold text for the entire word */
-	font-size: 2.5em; /* control font size */
+	font-size: 3em; /* control font size */
 }
 
 header .highlight-text .orange {
@@ -35,14 +42,6 @@ header .highlight-text .orange {
 
 header .highlight-text .green {
 	color: #008000; /* Deep shiny green color for "market" */
-}
-
-
-header img {
-	max-width: 100%;
-	max-height: 200px;
-	width: auto;
-	height: auto;
 }
 
 header a {
