@@ -9,9 +9,8 @@ body {
 header {
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
-	padding-top: 25px; /* Add padding to create space at the top */
+	padding-top: 5px; /* Add padding to create space at the top */
 	padding-bottom: 25px; /* Add padding to create space at the bottom */
-	padding-right: 25px;
 	box-sizing: border-box; /* Include padding and border in the total width */
 	margin: 0; /* Set margin to 0 */
 }
