@@ -9,9 +9,12 @@ body {
 header {
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
-	padding-bottom: 25px; /* Add padding to create space at the bottom */
-	box-sizing: border-box; /* Include padding and border in the total width */
 	margin: 0; /* Set margin to 0 */
+}
+
+header p:nth-child(1),
+header p:nth-child(2) {
+	text-align: left;
 }
 
 header img {
