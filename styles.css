@@ -61,7 +61,7 @@ nav ul li {
 	padding: 50px 0;
 	background-color: rgba(0, 0, 0, 0.8) !important; /* Add !important to override any conflicting styles */
 	overflow: hidden; /* Clear floats */
-	/* margin-top: 600px; */ /* A margin to create space for the header */
+	margin-top: 900px; /* A margin to create space for the header */
 }
 
 .feature {
