@@ -63,6 +63,7 @@ nav ul li {
 	padding: 100px 0 50px; /* Adjust the padding to add space below (#features) and above (#about) */
 	background-color: rgba(0, 0, 0, 0.8) !important; /* Add !important to override any conflicting styles */
 	overflow: hidden; /* Clear floats */
+	clear: both; /* Ensure that #features is below any floated elements */
 }
 
 .feature {
