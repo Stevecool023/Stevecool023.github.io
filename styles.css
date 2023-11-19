@@ -66,8 +66,17 @@ nav ul li {
 }
 
 .feature {
-	margin-bottom: 50px;
+	margin-bottom: 50px; /* Add space below each feature div */
+	padding: 50px 50px; /* Add space above and below each feature div */
 }
+
+
+#section1,
+#section2,
+#section3 {
+	padding-bottom: 50; /* The bottom padding for the last feature div */
+}
+
 
 #about {
 	text-align: center;
