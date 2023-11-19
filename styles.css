@@ -23,16 +23,17 @@ header p:nth-child(2) {
 }
 
 /* Style for "agrimarket" */
+header h1,
 header .highlight-text {
 	font-weight: bold; /* Bold text for the entire word */
 	font-size: 2.5em; /* control font size */
 }
 
-header .highlight-text.orange {
+header .highlight-text .orange {
 	color: #FFA500; /* Deep shiny orange color for "agri" */
 }
 
-header .highlight-text.green {
+header .highlight-text .green {
 	color: #008000; /* Deep shiny green color for "market" */
 }
 
@@ -42,11 +43,6 @@ header img {
 	max-height: 200px;
 	width: auto;
 	height: auto;
-}
-
-header h1 {
-	margin: 20px 0;
-	font-size: 2.5em; /* font size */
 }
 
 header a {
