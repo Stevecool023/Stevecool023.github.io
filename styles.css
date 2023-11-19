@@ -9,9 +9,9 @@ body {
 header {
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
-	width: 75%; /* Set the width to 75% */
 	padding-top: 25px; /* Add padding to create space at the top */
 	padding-bottom: 25px; /* Add padding to create space at the bottom */
+	padding-right: 25px;
 	box-sizing: border-box; /* Include padding and border in the total width */
 	margin: 0; /* Set margin to 0 */
 }
@@ -24,7 +24,7 @@ header img {
 }
 
 header h1 {
-	margin: 20px 0;
+	/* margin: 20px 0; */
 }
 
 header a {
