@@ -10,7 +10,7 @@ header {
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
 	width: 75%; /* Set the width to 75% */
-	margin: 0 auto; /* Set margin-top and margin-bottom to 0, and center horizontally */
+	margin: 0; /* Set margin-top and margin-bottom to 0, and center horizontally */
 	padding-top: 25px; /* Add padding to create space at the top */
 	padding-bottom: 25px; /* Add padding to create space at the bottom */
 	box-sizing: border-box; /* Include padding and border in the total width */
