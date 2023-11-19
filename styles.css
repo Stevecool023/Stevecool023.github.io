@@ -12,9 +12,14 @@ header {
 	margin: 0; /* Set margin to 0 */
 }
 
-header p:nth-child(1),
+header p:nth-child(1) {
+	text-align: left;
+	text-indent: 1em; /* value to control the indentation */
+}
+
 header p:nth-child(2) {
 	text-align: left;
+	text-indent: 3em; /* value to control the indentation */
 }
 
 /* Style for "agrimarket" */
