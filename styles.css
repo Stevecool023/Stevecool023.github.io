@@ -14,6 +14,8 @@ header {
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
 	padding: 20px;
+	width: 75%; /* Set the width to 75% */
+	margin: auto; /* Set margin to auto to center the element */
 }
 
 header img {
@@ -58,10 +60,9 @@ nav ul li {
 
 #features {
 	text-align: center;
-	padding: 50px 0;
+	padding: 950px 0 50px; /* Adjust the padding to add space below (#features) and above (#about) */
 	background-color: rgba(0, 0, 0, 0.8) !important; /* Add !important to override any conflicting styles */
 	overflow: hidden; /* Clear floats */
-	margin-top: 900px; /* A margin to create space for the header */
 }
 
 .feature {
@@ -71,7 +72,7 @@ nav ul li {
 #about {
 	text-align: center;
 	background-color: #001f3f;
-	padding: 50px 0;
+	padding: 50px 0 50px; /* Adjust the padding to add space above (#about) and below (.section-left, .section-right) */
 }
 
 #about ul {
@@ -109,7 +110,7 @@ nav ul li {
 .section-left {
 	float: left;
 	text-align: center;
-	width: 70%;
+	width: 80%;
 	padding: 20px;
 	box-sizing: border-box;
 	clear: left /* ensure that the right side is clear */
@@ -119,7 +120,7 @@ nav ul li {
 .section-right {
 	float: right;
 	text-align: center;
-	width: 70%;
+	width: 80%;
 	padding: 20px;
 	box-sizing: border-box;
 	clear: right; /* Ensure that the right side is clear */
