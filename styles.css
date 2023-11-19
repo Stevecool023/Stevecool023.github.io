@@ -90,7 +90,7 @@ nav ul li {
 #section1,
 #section2,
 #section3 {
-	padding-bottom: 50; /* The bottom padding for the last feature div */
+	padding-bottom: 50px; /* The bottom padding for the last feature div */
 }
 
 
