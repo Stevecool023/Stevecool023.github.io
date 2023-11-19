@@ -9,7 +9,6 @@ body {
 header {
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
-	padding: 20px;
 	width: 75%; /* Set the width to 75% */
 	margin: auto; /* Set margin to auto to center the element */
 	padding-top: 25px; /* Add padding to create space at the top */
