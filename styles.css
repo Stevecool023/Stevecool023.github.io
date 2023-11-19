@@ -13,8 +13,8 @@ header {
 	margin: auto; /* Set margin to auto to center the element */
 	padding-top: 25px; /* Add padding to create space at the top */
 	padding-bottom: 25px; /* Add padding to create space at the bottom */
-	padding-left: 25px; /* Add padding to create space at the left */
-	padding-right: 25px; /* Add padding to create space at the right */
+	padding-left: 40px; /* Add padding to create space at the left */
+	padding-right: 40px; /* Add padding to create space at the right */
 }
 
 header img {
