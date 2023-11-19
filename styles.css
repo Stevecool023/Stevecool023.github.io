@@ -24,8 +24,11 @@ header p:nth-child(2) {
 
 /* Style for "agrimarket" */
 header .highlight-text {
-	color: #FFA500; /* Deep shiny orange color for "agri" */
 	font-weight: bold; /* Bold text for the entire word */
+}
+
+header .highlight-text.orange {
+	color: #FFA500; /* Deep shiny orange color for "agri" */
 }
 
 header .highlight-text.green {
