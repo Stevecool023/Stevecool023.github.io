@@ -1,3 +1,9 @@
+* {
+	* margin: 0;
+	* padding: 0;
+	* box-sizing: border-box;
+	* }
+
 body {
 	font-family: 'Arial', sans-serif;
 	margin: 0;
@@ -37,7 +43,7 @@ header img {
 header h1,
 header .highlight-text {
 	font-weight: bold; /* Bold text for the entire word */
-	font-size: 3em; /* control font size */
+	font-size: 4em; /* control font size */
 }
 
 header .highlight-text .orange {
