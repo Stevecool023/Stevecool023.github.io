@@ -12,7 +12,7 @@ header {
 	margin: 0; /* Set margin to 0 */
 }
 
-header p:first-child {
+header > p:first-child {
 	margin-top: 3em; /* control the top space */
 }
 
