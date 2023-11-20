@@ -19,13 +19,13 @@ header {
 }
 
 header > p:first-child {
-	margin-top: 8em; /* control the top space */
+	margin-top: 0; /* control the top space */
 }
 
 header p:first-child {
 	text-align: left;
 	text-indent: 1em; /* value to control the indentation */
-	margin-top: 8em; /* control the top space */
+	margin-top: 0; /* control the top space */
 }
 
 header p:nth-child(2) {
