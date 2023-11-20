@@ -35,8 +35,8 @@ header p:nth-child(2) {
 }
 
 header p:nth-child(3) {
-	text-align:left;
-	text-indent: 20em; /* control indentation */
+	text-align:right;
+	text-indent: 1em; /* control indentation */
 }
 
 header img {
